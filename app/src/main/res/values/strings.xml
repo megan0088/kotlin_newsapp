@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Goto Android Devcamp</string>
+    <string name="btn_section_1">Section 1 - First App</string>
+    <string name="btn_section_2">Section 2 - CustomView + BottomSheet</string>
+    <string name="btn_section_3">Section 3 - ViewHolder + RecyclerView + Adapter</string>
+    <string name="btn_section_4">Section 4 - Connect to Internet | Coroutine + Retrofit</string>
+    <string name="btn_section_5">Section 5 - MVVM | Simple Clean Architecture</string>
+    <string name="btn_section_6">Section 6 - Practice + Binding View</string>
+    <string name="btn_section_7">Section 7 - Unit Test</string>
+    <string name="error">Errorrr</string>
+
+</resources>
